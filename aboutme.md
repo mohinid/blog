@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hire me
+title: Hire Me
 ---
 
 My name is <b>Mohini Dahiya</b>. I am a Full Stack Engineer.
@@ -17,6 +17,6 @@ Top Skills:
 
 [Download My Resume]({{ '/assets/document/resume.pdf' | relative_url }})
 
-### My story
+### My Story
 
 Find my personal blogs on [Medium](https://medium.com/@mohinidahiya) to know more.
