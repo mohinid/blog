@@ -1,7 +1,4 @@
----
-layout: page
-title: Hire me
----
+### My Professional Blog
 
 My name is <b>Mohini Dahiya</b>. I am a Full Stack Engineer.
 
@@ -15,7 +12,6 @@ Top Skills:
 - UX and Interaction Design
 - Cross Functional Team Management
 
-[Download My Resume]({{ '/assets/document/resume.pdf' | relative_url }})
 
 ### My story
 
