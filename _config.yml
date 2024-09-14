@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: My Blogs
 
 # Your name to show in the footer
-author: Some Person
+author: Mohini
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,12 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Favourite blogs:
+    - My Saeloun Blogs: "https://blog.saeloun.com/authors/mohini/"
+    - Thoughtbot Rails: "https://thoughtbot.com/blog/tags/rails"
+    - Byte Byte Go: "https://blog.bytebytego.com/"
+    - Intercation Design Blogs: "https://www.interaction-design.org/blog?srsltid=AfmBOooVLKdUNmd8K1dY3MTK_u9EFyJh_k3NH0lUE0O1g2bRI06F1VFk"
+  My LinkedIn: "https://www.linkedin.com/in/mohinidahiya/"
 
 ################
 # --- Logo --- #
@@ -32,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,14 +52,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "mohinidahiya4@gnail.com"
+  facebook: md.insta.story
+  instagram: md.insta.story
+  github: mohinid
+  twitter: mohini410
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
