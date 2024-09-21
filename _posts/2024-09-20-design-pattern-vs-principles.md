@@ -7,7 +7,7 @@ comments: true
 thumbnail-img: /assets/img/design-patterns.png
 ---
 
-Most of the software engineering discussion starts with talking about Common Design Patterns and Principles. Well, I could not tell the exact difference between these two in an interview! Here is what I found in the after research.
+Most software engineering discussions start with talking about common design patterns and principles. Well, I could not tell the exact difference between these two on the spot! Here is what I found in the after-research.
 
 ### Design Principles vs Design Patterns: Understanding the Difference
 
@@ -117,4 +117,4 @@ station.notify_observers(28)
 - **Design Principles**: High-level, abstract rules that guide good design choices (like SOLID, DRY).
 - **Design Patterns**: Concrete solutions to specific problems (like Singleton, Factory).
 
-Hope it helps you in choosing the right term for your next disussion!
+Hope it helps you in choosing the right term for your next discussion!
