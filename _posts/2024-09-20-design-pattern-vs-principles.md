@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Pricinples vs Design Patterns
+title: Design Principles vs Design Patterns
 subtitle: Understanding the Difference
 tags: [design patterns, design principles, coding practices, interview question]
 comments: true
