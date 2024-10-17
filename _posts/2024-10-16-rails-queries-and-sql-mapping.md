@@ -2,7 +2,7 @@
 layout: post  
 title: SQL Queries and their Rails Equivalents
 subtitle: Key SQL Query types(DDL, DML, DQL, DCL & TCL) and their Rails Active Record handling.
-tags: [ruby on rails, SQL, Active Record, interview questions, ruby on rails]  
+tags: [SQL, Active Record, interview questions, ruby on rails]  
 comments: true  
 thumbnail-img: /assets/img/data-code.gif
 ---
