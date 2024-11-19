@@ -4,7 +4,7 @@ title: Optimistic and Pessimistic Locking in Rails
 subtitle:  Locking implementation in rails and why implicit DB locks are not enough
 tags: [perfolocking, transactions, db, data consistency, ruby on rails]  
 comments: true  
-thumbnail-img: /assets/img/safety first.gif
+thumbnail-img: /assets/img/lock door.gif
 ---
 
 In Rails, **optimistic locking** and **pessimistic locking** are mechanisms to handle concurrent updates to database records. These approaches help maintain data integrity when multiple users or processes attempt to update the same record simultaneously. Here's an implementation of each with examples:
