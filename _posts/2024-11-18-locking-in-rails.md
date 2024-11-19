@@ -2,7 +2,7 @@
 layout: post
 title: Optimistic and Pessimistic Locking in Rails
 subtitle:  Locking implementation in rails and why implicit DB locks are not enough
-tags: [perfolocking, transactions, db, data consistency, ruby on rails]  
+tags: [locking, transactions, db, data consistency, ruby on rails]  
 comments: true  
 thumbnail-img: /assets/img/lock door.gif
 ---
@@ -180,9 +180,9 @@ Relying on implicit database locks often requires writing custom SQL and managin
 
 ### **Conclusion**
 
-Rails' optimistic and pessimistic locking complement the database's locking mechanisms by handling application-level concerns like **conflict resolution, user notifications, and consistent APIs** across different databases. These features improve code maintainability, scalability, and security. Have a nice weekend!!
+Rails' optimistic and pessimistic locking complement the database's locking mechanisms by handling application-level concerns like **conflict resolution, user notifications, and consistent APIs** across different databases. These features improve code maintainability, scalability, and security. Have a nice week ahead!!
 
 
 <p align="center" >
-  <img src="/assets/img/safety first.gif" alt="safety first" />
+  <img src="/assets/img/safety first.gif" alt="safety first"  width="50%" height="50%"/>
 </p>
