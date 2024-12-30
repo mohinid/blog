@@ -17,7 +17,7 @@ Top Skills:
 - UX and Interaction Design
 - Cross Functional Team Management
 
-[Download My Resume]({{ '/assets/document/resume.pdf' | relative_url }})
+[Download My Resume]({{ "/assets/document/Mohini Dahiya - Resume.docx.pdf" | relative_url }})
 
 ### My Story
 
