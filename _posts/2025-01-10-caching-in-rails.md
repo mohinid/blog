@@ -31,7 +31,7 @@ Caching is a technique used to store copies of expensive or frequently accessed 
 
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dGAgxozNWFE?si=dDI0_2C9HdGZC186" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="350" height="300" src="https://www.youtube.com/embed/dGAgxozNWFE?si=dDI0_2C9HdGZC186" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br/>
 You can watch this useful video by ByteByteGo on various caching levels and techniques.
 </p>
