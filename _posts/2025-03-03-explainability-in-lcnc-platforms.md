@@ -4,12 +4,17 @@ title: Bridging the Trust Gap - Ensuring Explainability in AI-Driven LCNC Platfo
 subtitle: Increasing user trust with XAI in Low Code No Code Platforms
 tags: [XAI, LCNC, AI, ML]
 comments: true  
-thumbnail-img: /assets/img/xai.png
+thumbnail-img: /assets/img/explain.gif
 ---
 
 AI-Driven Low-Code/No-Code (LCNC) platforms are revolutionizing software development by enabling non-programmers to build applications. However, as AI integration within LCNC tools becomes more sophisticated, a significant challenge emerges: the lack of Explainability in AI-generated decisions. Without clear insights into how AI models operate, users may struggle to trust and adopt these technologies effectively. This study explores the intersection of Explainable AI (XAI) and LCNC platforms, addressing the critical need for transparency in AI-driven automation. I have analyzed existing XAI techniques—such as SHAP, LIME, and attention-based methods—and assessed their suitability for LCNC environments. 
 
 Additionally, I have proposed a layered explainability framework designed to cater to diverse user groups, including end-users, developers, and regulatory bodies. By enhancing AI interpretability within LCNC tools, I aim to bridge the trust gap, ensuring responsible AI adoption while maintaining ease of use. My findings provide a roadmap for industry practitioners and researchers seeking to develop more transparent, accountable, and user-friendly AI-driven LCNC platforms.
+
+
+<p align="center" >
+  <img src="/assets/img/lcnc.png" alt="lcnc"/>
+</p>
 
 ## 1. Understanding LCNC and AI Integration
 ### A. Overview of LCNC Platforms and Their Benefits for Non-Programmers
@@ -31,7 +36,7 @@ The AI-powered LCNC platforms provide a range of functionalities that make appli
 * <b>Chatbots and Virtual Assistants:</b> Pre-built AI models enable the creation of AI-driven chatbots and automation solutions with minimal coding.
 * <b>Intelligent Process Automation:</b> AI enhances automation workflows by optimizing task execution based on real-time data analysis.
 
-### C. Challenges Faced by Non-Programmers in Trusting AI-Generated Outputs
+### C. Challenges Faced by Users in Trusting AI-Generated Outputs
 
 Despite the advantages of AI-powered LCNC tools, non-programmers often struggle with understanding and trusting AI-generated outcomes(Why it does, what it does?!) due to several challenges:
 
@@ -65,6 +70,10 @@ While post-hoc explainability techniques help interpret AI outputs, they face se
 * <b>Attention Mechanisms:</b> Common in deep learning but may not fully address explainability for end-users.
 * <b>Model-Agnostic Methods:</b> May not align well with LCNC’s visual interface constraints.
 These limitations necessitate a tailored approach to integrating XAI in LCNC platforms.
+
+<p align="center" >
+  <img src="/assets/img/shap-lime.jpeg" alt="shap-lime"/>
+</p>
 
 ## 3. Challenges of Implementing XAI in LCNC!!!
 
@@ -121,6 +130,10 @@ Organizations that use LCNC for critical applications (healthcare, finance, lega
 - <b>Exportable XAI Reports:</b> Compliance teams can access AI explanations only when needed (rather than burdening regular users).
 
 <b>Example:</b> In an AI-powered contract review LCNC tool, adding “Explain This Clause” for legal professionals ensures transparency without slowing down general users.
+
+<p align="center" >
+  <img src="/assets/img/xai-parts.png" alt="xai-parts" width="50%" height="50%"/>
+</p>
 
 ## Winding up: Key Takeaway and Impact of Integrating Explainability in LCNC
 By embedding explainability within LCNC platforms, we can:
